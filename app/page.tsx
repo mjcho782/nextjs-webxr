@@ -303,6 +303,7 @@ export default function Home() {
 
         {/* Background */}
         <Background position={[0, 3.5, 0]} scale={1} />
+        {/* adf */}
 
         {/* Bone model at origin; adjust scale/position as needed */}
         <Bone position={[7, 0, -1.6]} rotation={[0, 3, 0]}scale={1} />
